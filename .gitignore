@@ -1,0 +1,11 @@
+target/
+.settings/
+src/main/webapp/WEB-INF/classes/
+src/main/java/META-INF/
+/bin
+.classpath
+.project
+.idea/
+changgou_parent/.idea/
+kbase-report.iml
+src/main/resources/reversion-info
